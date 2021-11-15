@@ -1,3 +1,3 @@
 # landingpage
-https://github.com/shishpalchauhan288/newform.git
+https://shishpalchauhan288.github.io/landingpage/ATHome/index.html
 
